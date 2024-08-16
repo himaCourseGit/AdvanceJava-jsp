@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_91">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Advancejava"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bank"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Bank1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Banktranscation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/connection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EmployeeDetails"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FirstJsp"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hhtpservlets"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/otpgeneration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PrepareUserInformation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Registration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Registratione"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Selection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TeluguMatrimony"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Webfirst"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

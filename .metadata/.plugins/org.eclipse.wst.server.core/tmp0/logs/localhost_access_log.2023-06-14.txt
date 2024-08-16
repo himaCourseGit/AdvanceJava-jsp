@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Jun/2023:23:29:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Jun/2023:23:29:47 +0530] "GET /Bank1/Welcome.html HTTP/1.1" 200 501
+0:0:0:0:0:0:0:1 - - [14/Jun/2023:23:30:37 +0530] "GET /Bank1/MobileTransaction.html HTTP/1.1" 200 540
+0:0:0:0:0:0:0:1 - - [14/Jun/2023:23:31:22 +0530] "GET /Bank1/MobileTransaction?mb=8769054678&password=12345 HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [14/Jun/2023:23:35:57 +0530] "GET /Bank1/MobileTransaction?mb=9502882884&password=12345 HTTP/1.1" 405 751

@@ -1,0 +1,9 @@
+127.0.0.1 - - [29/May/2023:23:23:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:23:23 +0530] "GET /EmployeeDetails/EmployeeLogin HTTP/1.1" 500 1088
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:24:03 +0530] "GET /EmployeeDetails/EmployeeLogin HTTP/1.1" 500 1088
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:24:32 +0530] "GET /EmployeeDetails/EmployeeDetails.html HTTP/1.1" 200 479
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:24:50 +0530] "GET /EmployeeDetails/EmployeeLogin?id=101&name=bindu&salary=2000&deptno= HTTP/1.1" 500 1205
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:25:07 +0530] "GET /EmployeeDetails/EmployeeDetails.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:25:11 +0530] "GET /EmployeeDetails/EmployeeLogin?id=101&name=&salary=&deptno= HTTP/1.1" 500 1205
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:25:26 +0530] "GET /EmployeeDetails/EmployeeDetails.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:25:41 +0530] "GET /EmployeeDetails/EmployeeLogin?id=101&name=bindu&salary=200&deptno=30 HTTP/1.1" 200 148
